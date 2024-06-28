@@ -8,8 +8,6 @@ function Detail(props){
 
     let findItem = shoesList.find(
 
-
-        
     );
 
 
